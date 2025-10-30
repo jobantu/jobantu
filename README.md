@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jobantu
-- 👀 I’m interested in microelectronics and Data sciences
+- 👀 I’m interested in microelectronics/ robotics & AI and Data sciences
 - 🌱 I’m currently working as project manager in AI field ...
-- 💞️ I’m looking to collaborate on AI projects
+- 💞️ I’m looking to collaborate on Robotics, mecatronics and automatism projects
 - 📫 How to reach me ...+33 752 629 351
 
 <!---
